@@ -15,6 +15,10 @@ return [
 
     'dashboard'     => 'Dashboard',
     'settings'      => 'Settings',
-    'translations'  => 'Translations'
+    'translations'  => 'Translations',
+    'email'         => 'Email',
+    'address'       => 'Address',
+    'content'       => 'Content',
+    'title'         => 'Title'
     
 ];

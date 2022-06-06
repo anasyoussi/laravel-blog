@@ -1,1 +1,11 @@
 https://youtu.be/FhW0mZvxg3I?list=PLf5ATZslqO1cIRQXgUR86U5kVftk7ZjVA&t=630
+
+
+video 07 (1:00) ->
+    1 - command : php artisan vendor:publish
+    2 - then shoose the number 21 
+    3 - change config/translatable.php
+
+
+
+https://www.youtube.com/watch?v=91yeVc-dYjk&list=PLf5ATZslqO1cIRQXgUR86U5kVftk7ZjVA&index=8&ab_channel=HamzaH

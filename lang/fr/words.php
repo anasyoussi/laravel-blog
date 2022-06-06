@@ -13,9 +13,12 @@ return [
     |
     */
 
-    'dashboard' => 'لوحة التحكم',
-    'email'     => 'ايميل',
-    'address'   => 'عنوان',
-    'content'   => 'محتوى',
-    'title'     => 'عنوان الموقع'
+    'dashboard'     => 'Tableau de bords',
+    'settings'      => 'Parametres',
+    'translations'  => 'Trasuctions',
+    'email'         => 'Email',
+    'address'       => 'Adress',
+    'content'       => 'Contenus',
+    'title'         => 'Title'
+    
 ];

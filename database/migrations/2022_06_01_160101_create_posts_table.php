@@ -15,8 +15,9 @@ return new class extends Migration
     {
         Schema::create('posts', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('image')->nullable();
             $table->integer('category_id')->unsigned();  
+            $table->string('image')->nullable();
+            
             $table->foreign('category_id')->references('id')->on('categories')->onDelete('cascade');
             $table->timestamps();
             $table->softDeletes(); 
